@@ -34,8 +34,8 @@ Display the transformed images using Matplotlib for visualization. Convert the B
 Save or display the final transformed images for analysis and use plt.show() to display them inline in Jupyter or compatible environments.
 ## Program:
 ```python
-Developed By:
-Register Number:
+Developed By: MURALI S
+Register Number: 212222230088
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
